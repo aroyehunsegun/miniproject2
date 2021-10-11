@@ -1,16 +1,17 @@
 div{
     border: 0px solid black;
     width: 100%;
+    
 
 }
 
 
 .logo{
-    width: 190px;
+    width: 150px;
 }
 
 .nav-link{
-    margin-top: 70px;
+    margin-top: 40px;
    
     margin-right: 3px;
     width: 120px;
@@ -18,9 +19,10 @@ div{
 }
 
 #bgimage{
-    background-image:url(images/christopher-gower-m_HRfLhgABo-unsplash.jpg);   
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/christopher-gower-m_HRfLhgABo-unsplash.jpg");   
     background-size: cover;
     height: 800px;
+    margin-top: 0px;
     
     
 }
@@ -30,7 +32,7 @@ div{
 
 }
 
-box{
+#box{
     border: 3px solid black;
     width: 400px;
     height: 200px;
@@ -39,21 +41,18 @@ box{
     margin-left: 400px;
     margin-top: 0px;
 
-    
-
-
 }
 
 #intro{
     font-size: 90px;
-    margin-left: 300px;
+    margin-left: 500px;
     margin-top: 200px;
     position: fluid;
     color: white;
 }
 
 #textundertop{
-    margin-left: 380px;
+    margin-left: 580px;
     color: white;
 }
 
