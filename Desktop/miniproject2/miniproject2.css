@@ -1,0 +1,199 @@
+div{
+    border: 0px solid black;
+    width: 100%;
+
+}
+
+
+.logo{
+    width: 190px;
+}
+
+.nav-link{
+    margin-top: 70px;
+   
+    margin-right: 3px;
+    width: 120px;
+    
+}
+
+#bgimage{
+    background-image:url(images/christopher-gower-m_HRfLhgABo-unsplash.jpg);   
+    background-size: cover;
+    height: 800px;
+    
+    
+}
+
+#contentbg{
+    color:blue;
+
+}
+
+box{
+    border: 3px solid black;
+    width: 400px;
+    height: 200px;
+    border-color: red;
+    transform: rotate(45deg);
+    margin-left: 400px;
+    margin-top: 0px;
+
+    
+
+
+}
+
+#intro{
+    font-size: 90px;
+    margin-left: 300px;
+    margin-top: 200px;
+    position: fluid;
+    color: white;
+}
+
+#textundertop{
+    margin-left: 380px;
+    color: white;
+}
+
+#images{
+    height: 500px;
+    margin-left: 170px;
+    margin-top: 70px;
+}
+
+
+#textimg{
+    width: 650px;
+    height: 80px;
+    margin-left: 120px;
+    margin-top: 20p;
+}
+
+.abouttext{
+    margin-left: 120px;
+    margin-top: 180px;
+    margin-bottom:;
+}
+
+#subheading{
+    margin-left: 120px;
+}
+
+
+
+.langimages{
+
+    height: 300px;
+    padding: 40px;
+    margin-left: 140px;
+    
+}
+
+#lang{
+    background-image: url(images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg);
+    margin-top: 35px;
+    background-size: cover;
+}
+
+#languageskills{
+    color: white;
+    font-style: italic;
+    border: 2px solid black;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 80px;
+    font-size: 30px;
+    transform: rotate(-40deg);
+    background-color: blue;
+    border-radius: 25%;
+}
+
+.whatwedoimg{
+    height: 200px;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+#textwhatido{
+    text-align: center;
+    margin-top: 5px;
+    border: 1px solid skyblue;
+
+
+    width: 50px;
+    margin-left: 350px;
+    border-radius: 10%;
+   
+}
+
+.mtn{
+    width:100px;
+}
+
+
+#brandstex{
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+#contactus{
+    padding: 5px;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 1px;
+    
+}
+
+
+#mapedit{
+    margin-top: 70px;
+}
+
+.ftimages{
+    width: 40px;
+}
+
+.aligndiv{
+    border: 1px solid black;
+    float: left;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 60px;
+    padding: 5px;
+    color: white;
+
+}
+
+#divcontcon{
+    height: 200px;
+    background-color: black;
+
+
+}
+
+#imagespaced{
+    margin-right: 10px;
+}
+
+
+
+#straightline{
+    border-top: 2px solid black;
+    background-color: skyblue;
+    border-right: 2px solid black;
+}
+
+
+#textarrow{
+    color: red;
+    font-size: 30px;
+}
